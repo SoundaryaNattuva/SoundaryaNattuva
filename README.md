@@ -12,7 +12,7 @@
 <p align="center"> When I am not coding, you can catch me making a delicious meal and enjoying a genre of apocolypes and dystopians.</p>
 
 
-<h3>How I would define myself... literally</h3>
+<h3>How I would define my to do's... literally</h3>
 
 ```javascript
     const arya = {
