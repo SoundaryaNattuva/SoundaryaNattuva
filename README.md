@@ -3,6 +3,7 @@
 
 <p align="center"> When I am not coding, you can catch me making a delicious meal and enjoying a genre of apocolypes and dystopians.</p>
 
+```js
 <pre>
   <code class="language-javascript">
     const arya = {
@@ -14,6 +15,7 @@
     }
   </code>
 </pre>
+```
 
 - 📫 How to reach me **soundarya.nattuva@gmail.com**
 
