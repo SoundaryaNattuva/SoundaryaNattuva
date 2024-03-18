@@ -9,7 +9,7 @@
 
 <p align="center">I am a Full Stack Software Engineer with a unique background in Clinical Research and Trials who is passionate about bringing products from conception to completion, continuously evolving them to meet user needs and technological advancements.</p>
 
-<p align="center"> When I am not coding, you can catch me making a delicious meal and enjoying a genre of apocolypes and dystopians.</p>
+<p align="center"> When I am not coding, you can catch me making a delicious meal and enjoying any dystopian or apocolyptic media.</p>
 
 
 <h3>How I would define my to do's... literally</h3>
