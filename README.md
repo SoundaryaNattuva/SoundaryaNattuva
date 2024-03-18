@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋🏾, I'm Soundarya! You can catch people also call me Arya.</h1><br>
-<p align="center">I am a Full Stack Software Engineer with a unique background in Clinical Research and Trials, who excels in blending innovative solutions, analytical thinking, and a user-centric approach to navigate the dynamic technology landscape. I am passionate about bringing products from conception to completion, continuously evolving them to meet user needs and technological advancements.</p>
+<p align="center">I am a Full Stack Software Engineer with a unique background in Clinical Research and Trials who is passionate about bringing products from conception to completion, continuously evolving them to meet user needs and technological advancements.</p>
 
 <p align="center"> When I am not coding, you can catch me making a delicious meal and enjoying a genre of apocolypes and dystopians.</p>
+
+const arya = {
+  pronouns: "she" | "her",
+  code: [HTML, CSS, Javascript, Python],
+  tools: [React, Node, Express, Mongoose, Django]
+  architecture: ["restful routing", "API", "object oriented programming"],
+  challenge: "I am revisiting Wordle to implement icebox features"
+}
 
 - 📫 How to reach me **soundarya.nattuva@gmail.com**
 
