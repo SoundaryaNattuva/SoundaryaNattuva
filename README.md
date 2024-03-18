@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm Soundarya! You can catch people also call me Arya.</h1><br>
-<h3 align="center">I am a Software Engineer with a unique background in Clinical Research and Trials, who excels in blending innovative solutions, analytical thinking, and a user-centric approach to navigate the dynamic technology landscape. My adaptability and eagerness to learn fuel my drive to bring products from conception to completion, continuously evolving them to meet user needs and technological advancements.</h3>
+<p align="center">I am a Software Engineer with a unique background in Clinical Research and Trials, who excels in blending innovative solutions, analytical thinking, and a user-centric approach to navigate the dynamic technology landscape. My adaptability and eagerness to learn fuel my drive to bring products from conception to completion, continuously evolving them to meet user needs and technological advancements.</p>
 
 <h3 align="center"> When I am not coding, you can catch me making a delicious meal and enjoying a genre of Apocolypes and dystopians.</h3>
 
