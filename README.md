@@ -3,6 +3,8 @@
 <p align="center">
     <a href="https://linkedin.com/in/soundaryanattuva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soundarya nattuva" height="30" width="40" /></a> l **soundarya.nattuva@gmail.com** l soundaryanatts.com l 
 
+![image](https://github.com/SoundaryaNattuva/SoundaryaNattuva/assets/122417818/256b58d1-c722-4d41-9f59-834fd36471d6)(https://google.com/)
+
 </p>
 
 <p align="center">I am a Full Stack Software Engineer with a unique background in Clinical Research and Trials who is passionate about bringing products from conception to completion, continuously evolving them to meet user needs and technological advancements.</p>
@@ -15,7 +17,7 @@
 ```javascript
     const arya = {
       pronouns: "she" | "her",
-      currentlyLearning: diving deeper into REACT,
+      currentlyLearning: "diving deeper into REACT by building a campus-club application",
       currentChallenge: "I am revisiting Wordle to implement icebox features",
       currentBook: "So Good They Can't Ignore You",
     }
