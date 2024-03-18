@@ -9,10 +9,9 @@
 ```javascript
     const arya = {
       pronouns: "she" | "her",
-      code: [HTML, CSS, Javascript, Python],
-      tools: [React, Node, Express, Mongoose, Django],
       architecture: ["restful routing", "API", "object oriented programming"],
-      challenge: "I am revisiting Wordle to implement icebox features"
+      challenge: "I am revisiting Wordle to implement icebox features",
+      current book: "So Good They Can't Ignore You",
     }
 ```
 
