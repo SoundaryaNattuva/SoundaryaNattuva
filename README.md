@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋🏾, I'm Soundarya! You can catch people also call me Arya.</h1><br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/soundaryanattuva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soundarya nattuva" height="30" width="40" /></a>
+<a href=""><img width="100" height="100" src="https://img.icons8.com/clouds/100/gmail-new.png" alt="gmail-new"/>soundarya.nattuva@gmail.com</a>
+</p>
+
 <p align="center">I am a Full Stack Software Engineer with a unique background in Clinical Research and Trials who is passionate about bringing products from conception to completion, continuously evolving them to meet user needs and technological advancements.</p>
 
 <p align="center"> When I am not coding, you can catch me making a delicious meal and enjoying a genre of apocolypes and dystopians.</p>
@@ -11,12 +18,12 @@
       pronouns: "she" | "her",
       architecture: ["restful routing", "API", "object oriented programming"],
       challenge: "I am revisiting Wordle to implement icebox features",
-      current book: "So Good They Can't Ignore You",
+      current-book: "So Good They Can't Ignore You",
     }
 ```
 
 <h2>Statistics</h2>
-<img src="https://myreadme.vercel.app/api/embed/soundaryanattuva?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img align="center" src="https://myreadme.vercel.app/api/embed/soundaryanattuva?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
 <h2>Technolog Stack</h2>
@@ -46,9 +53,5 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/soundarya nattuva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soundarya nattuva" height="30" width="40" /></a>
-</p>
 
 
