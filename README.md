@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏾, I'm Soundarya! You can catch people also call me Arya.</h1><br>
 
 <p align="center">
-    <a href="https://linkedin.com/in/soundaryanattuva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soundarya nattuva" height="30" width="40" /></a> l soundarya.nattuva@gmail.com l soundaryanatts.com
+    <a href="https://linkedin.com/in/soundaryanattuva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soundarya nattuva" height="30" width="40" /></a> l **soundarya.nattuva@gmail.com** l soundaryanatts.com l 
 
 </p>
 
@@ -15,9 +15,9 @@
 ```javascript
     const arya = {
       pronouns: "she" | "her",
-      architecture: ["restful routing", "API", "object oriented programming"],
-      challenge: "I am revisiting Wordle to implement icebox features",
-      current-book: "So Good They Can't Ignore You",
+      currentlyLearning: diving deeper into REACT,
+      currentChallenge: "I am revisiting Wordle to implement icebox features",
+      currentBook: "So Good They Can't Ignore You",
     }
 ```
 
