@@ -3,9 +3,6 @@
 
 <p align="center"> When I am not coding, you can catch me making a delicious meal and enjoying a genre of apocolypes and dystopians.</p>
 
-
-<pre>
-  <code class="language-javascript">
     ```js
     const arya = {
       pronouns: "she" | "her",
@@ -15,9 +12,6 @@
       challenge: "I am revisiting Wordle to implement icebox features"
     }
     ```
-  </code>
-</pre>
-
 
 - 📫 How to reach me **soundarya.nattuva@gmail.com**
 
