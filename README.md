@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏾, I'm Soundarya! You can catch people also call me Arya.</h1><br>
 
 <p align="center">
-    <a href="https://linkedin.com/in/soundaryanattuva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soundarya nattuva" height="30" width="40" /></a> <a href="https://www.google.com" target="_blank"><img src="https://github.com/SoundaryaNattuva/SoundaryaNattuva/assets/122417818/ff47fbad-0c74-4810-b11c-50c1a2b59269" height="40" width="40" align="center"></a>
-
-
+    <a href="https://linkedin.com/in/soundaryanattuva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soundarya nattuva" height="30" width="40" /></a> 
+    <a href="" target="_blank"><img src="https://github.com/SoundaryaNattuva/SoundaryaNattuva/assets/122417818/ff47fbad-0c74-4810-b11c-50c1a2b59269" height="40" width="40" align="center"></a>
+    <a href="https://www.google.com" target="_blank"><img src="https://github.com/SoundaryaNattuva/SoundaryaNattuva/assets/122417818/011fba65-10b5-4f46-a516-2c9d0785a140" height="40" width="40" align="center"></a>
 
 </p>
 
