@@ -46,3 +46,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/soundarya nattuva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soundarya nattuva" height="30" width="40" /></a>
 </p>
+
+-- - <img src="https://myreadme.vercel.app/api/embed/soundaryanattuva?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
