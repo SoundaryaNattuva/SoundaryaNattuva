@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm Soundarya! You can catch people also call me Arya.</h1><br>
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://linkedin.com/in/soundaryanattuva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soundarya nattuva" height="30" width="40" /></a> l soundarya.nattuva@gmail.com l soundaryanatts.com
 
