@@ -15,6 +15,10 @@
     }
 ```
 
+<h2>Statistics</h2>
+<img src="https://myreadme.vercel.app/api/embed/soundaryanattuva?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+
 <h2>Technolog Stack</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,4 +51,4 @@
 <a href="https://linkedin.com/in/soundarya nattuva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soundarya nattuva" height="30" width="40" /></a>
 </p>
 
--- - <img src="https://myreadme.vercel.app/api/embed/soundaryanattuva?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
