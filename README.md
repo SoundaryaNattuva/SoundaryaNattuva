@@ -3,13 +3,17 @@
 
 <p align="center"> When I am not coding, you can catch me making a delicious meal and enjoying a genre of apocolypes and dystopians.</p>
 
-const arya = {
-  pronouns: "she" | "her",
-  code: [HTML, CSS, Javascript, Python],
-  tools: [React, Node, Express, Mongoose, Django]
-  architecture: ["restful routing", "API", "object oriented programming"],
-  challenge: "I am revisiting Wordle to implement icebox features"
-}
+<pre>
+  <code class="language-javascript">
+    const arya = {
+      pronouns: "she" | "her",
+      code: [HTML, CSS, Javascript, Python],
+      tools: [React, Node, Express, Mongoose, Django]
+      architecture: ["restful routing", "API", "object oriented programming"],
+      challenge: "I am revisiting Wordle to implement icebox features"
+    }
+  </code>
+</pre>
 
 - 📫 How to reach me **soundarya.nattuva@gmail.com**
 
